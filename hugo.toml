@@ -62,7 +62,7 @@ enableRobotsTXT = true
     identifier = "joinus"
     name = "Join Us"
     url = "/joinus/"
-    weight = 50
+    weight = 51
 
 [caches]
   [caches.images]
