@@ -10,7 +10,7 @@ enableRobotsTXT = true
 [params]
   enable_toc = false
   enable_math = true
-  footer = "Xi Chen Lab @ SUSTech, 2024"
+  footer = "Xi Chen Lab @ SUSTech, 2025"
 
 [menu]
   [[menu.navbar]]
