@@ -1,13 +1,16 @@
 baseURL = 'https://xichenlab.com/'
+# baseURL = 'https://dbrg77.github.io/lab-website/'
 languageCode = 'en-gb'
 title = 'Xi Chen Lab @ SUSTech'
 theme = "hugo-theme-monochrome"
 enableRobotsTXT = true
+# canonifyurls = true
+publishDir = "/Users/xichen/Documents/lab_website_build"
 
 [params]
   enable_toc = false
   enable_math = true
-  footer = "Xi Chen Lab @ SUSTech, 2025"
+  footer = "Xi Chen Lab @ SUSTech, 2024"
 
 [menu]
   [[menu.navbar]]
@@ -62,8 +65,4 @@ enableRobotsTXT = true
     identifier = "joinus"
     name = "Join Us"
     url = "/joinus/"
-    weight = 51
-
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
+    weight = 50
