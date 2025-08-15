@@ -8,9 +8,39 @@ code, kbd, pre {
 }
 
 main {
+  @include my-8;
   margin-left: auto;
   margin-right: auto;
-  padding: 1.5rem;
+  margin-bottom: 2rem;
+  width: $sm_main_width;
+}
+
+@media screen and (min-width: $md_min_width) {
+  main {
+    margin-top: 2rem;
+    width: $md_main_width;
+  }
+}
+
+@media screen and (min-width: $lg_min_width) {
+  main {
+    margin-top: 2rem;
+    width: $lg_main_width;
+  }
+}
+
+@media screen and (min-width: $xl_min_width) {
+  main {
+    margin-top: 2.5rem;
+    width: $xl_main_width;
+  }
+}
+
+@media screen and (min-width: $xxl_min_width) {
+  main {
+    margin-top: 2.5rem;
+    width: $xxl_main_width;
+  }
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -49,6 +79,7 @@ figure {
 
 img {
   max-width: 100%;
+  border-radius: 3px;
 }
 
 input {
@@ -59,6 +90,7 @@ input {
 
 mark {
   background-color: var(--color-background-mark);
+  color: var(--color-text-mark);
 }
 
 details > summary {
@@ -77,32 +109,19 @@ details[open] > summary {
   display: none;
 }
 
-@media screen and (min-width: $sm_min_width) {
-  main {
-    width: $sm_main_width;
-  }
+hr {
+  border-color: var(--color-border);
 }
 
-@media screen and (min-width: $md_min_width) {
-  main {
-    width: $md_main_width;
-  }
+// https://github.com/mathjax/MathJax/issues/3001
+.MJX_LiveRegion {
+  background-color: transparent !important;
 }
 
-@media screen and (min-width: $lg_min_width) {
-  main {
-    width: $lg_main_width;
-  }
+.MJX_HoverRegion{
+  background-color: transparent !important;
 }
 
-@media screen and (min-width: $xl_min_width) {
-  main {
-    width: $xl_main_width;
-  }
-}
-
-@media screen and (min-width: $xxl_min_width) {
-  main {
-    width: $xxl_main_width;
-  }
+.MJX_ToolTip{
+  background-color: transparent !important;
 }

@@ -14,11 +14,13 @@ Monochrome built-in icons.
 {{</* icon vendor="" name="" link="" */>}}
 ```
 
-Paramters:
+Parameters:
 
-- `vendor`: Icon vendor (Supported value: `feather`)
+- `vendor`: Icon vendor (Supported value: `feather`, `simple`)
 - `link`: Render link for icon
 - `name`: Icon name
+- `width`: Icon width
+- `height`: Icon height
 
 ## Available Icons
 
@@ -35,6 +37,15 @@ Icons from [Feather icons](https://feathericons.com/)
 | twitter  | {{< icon vendor="feather" name="twitter" >}}  |
 | mail     | {{< icon vendor="feather" name="mail" >}}     |
 
+Icons from [Simple icons](https://simpleicons.org/)
+
+| name     | svg                                  |
+| -------- | ------------------------------------ |
+| dotenv    | {{< icon vendor="simple" name="dotenv" >}}    |
+| dotnet     | {{< icon vendor="simple" name="dotnet" >}}     |
+| e     | {{< icon vendor="simple" name="e" >}}     |
+| 1001tracklists     | {{< icon vendor="simple" name="1001tracklists" >}}     |
+
 ## Examples
 
 ```html
@@ -42,3 +53,15 @@ Icons from [Feather icons](https://feathericons.com/)
 ```
 
 {{< icon vendor="feather" name="github" link="https://github.com/kaiiiz/hugo-theme-monochrome" >}}
+
+```html
+{{</* icon vendor="simple" name="github" link="https://github.com/kaiiiz/hugo-theme-monochrome" */>}}
+```
+
+{{< icon vendor="simple" name="github" link="https://github.com/kaiiiz/hugo-theme-monochrome" >}}
+
+```html
+{{</* icon vendor="simple" name="github" width="1rem" height="1rem" link="https://github.com/kaiiiz/hugo-theme-monochrome" */>}}
+```
+
+{{< icon vendor="simple" name="github" width="1rem" height="1rem" link="https://github.com/kaiiiz/hugo-theme-monochrome" >}}

@@ -1,13 +1,6 @@
 article {
   line-height: 1.7;
-
-  > *:first-child {
-    margin-top: 0;
-  }
-
-  > *:last-child {
-    margin-bottom: 0;
-  }
+  width: 100%;
 
   hr {
     @include my-8;
@@ -51,7 +44,7 @@ article {
 
   blockquote {
     @include px-4;
-    @include my-6;
+    @include my-4;
     @include mx-0;
     border-left: 2px solid var(--color-border);
 
@@ -72,20 +65,25 @@ article {
     border-radius: .25rem;
     padding: .2rem .375rem .2rem .375rem;
     background-color: var(--color-background-inline-code);
+    white-space: pre-wrap;
+    word-wrap: break-word;
   }
 
   pre {
-    @include my-6;
+    @include my-4;
     padding: 1rem;
     overflow-x: auto;
     border-radius: .5rem;
-    background-color: $gray-850;
+    background-color: #272822; // from monokai
     color: $gray-50;
 
     code { /* Disable inline code style */
+      display: inherit;
       border-radius: 0;
       padding: 0;
       background-color: transparent;
+      white-space: unset;
+      word-wrap: unset;
     }
   }
 
@@ -105,7 +103,7 @@ article {
   }
 
   .highlight {
-    @include my-6;
+    @include my-4;
     position: relative;
 
     .code-toolbar {
@@ -132,6 +130,8 @@ article {
           border-radius: 0;
           padding: 0;
           background-color: transparent;
+          white-space: unset;
+          word-wrap: unset;
         }
       }
     }
@@ -157,7 +157,7 @@ article {
   }
 
   table.mc-table {
-    @include my-6;
+    @include my-4;
     table-layout: auto;
     border-collapse: collapse;
     display: block;
@@ -182,6 +182,19 @@ article {
   img {
     @include mx-auto;
     display: block;
+  }
+
+  .header-anchor-link {
+    display: none;
+    color: var(--color-text);
+  }
+
+  .header-anchor-wrapper:hover .header-anchor-link {
+    display: inline;
+  }
+
+  section {
+    @include my-4;
   }
 }
 

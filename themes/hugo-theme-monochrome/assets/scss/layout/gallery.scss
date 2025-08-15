@@ -7,6 +7,7 @@
 
     img {
       @include mx-auto;
+      display: block;
     }
   }
 
@@ -29,7 +30,7 @@
     }
 
     span {
-      @include text-3xl;
+      @include text-2xl;
       @include font-bold;
     }
   }

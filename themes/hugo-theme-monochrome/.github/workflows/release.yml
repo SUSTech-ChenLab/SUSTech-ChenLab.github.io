@@ -9,11 +9,10 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
         with:
           ref: dev
-          token: ${{ secrets.ACCESS_TOKEN }}
-          ssh-key: ${{ secrets.SSH_PRIVATE }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
       - name: Create Release
