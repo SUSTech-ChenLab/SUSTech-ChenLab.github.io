@@ -8,6 +8,10 @@ title: "Publications"
 
 This is one aspect of our contributions to science. If you have difficulties getting the full text, [drop me an email](mailto:chenx9@sustech.edu.cn).
 
+# 2025
+
+- Zheng J$^§$, Chen Y$^§$, Hu Y, Zhu Y, Lin J, Xu M, Zhang Y, Song W* & Chen X* (2025) **Lineage trajectories and fate determinants of postnatal neural stem cells and ependymal cells in the developing ventricular zone.** [*PLoS Biol* 23:e3003318](https://doi.org/10.1371/journal.pbio.3003318). doi: 10.1371/journal.pbio.3003318
+
 # 2024
 
 - Qiushi Xu$^§$, Yunlong Zhang$^§$, Wei Xu, Dong Liu, Wenfei Jin, Xi Chen* & Ni Hong* (2024) **The chromatin accessibility dynamics during cell fate specifications in zebrafish early embryogenesis.** [*Nucleic Acids Res.* 52:3106-3120]((https://doi.org/10.1093/nar/gkae095)). doi: 10.1093/nar/gkae095. [**Click here**](/posts/2024-04-23-zfscatac/) to see some behind-the-scene stories that are not in the paper.
