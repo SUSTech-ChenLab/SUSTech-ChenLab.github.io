@@ -3,7 +3,7 @@ title: "Wei Xu, PhD"
 summary: "Visiting Scientist"
 bookcase_cover_src: '/photos/weixu_featured.jpg'
 bookcase_cover_src_dark: '/photos/weixu_featured.jpg'
-weight: 2
+weight: 65
 ---
 
 

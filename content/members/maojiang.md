@@ -3,6 +3,7 @@ title: "Maojiang Lu"
 summary: "Master student"
 bookcase_cover_src: '/photos/featured.PNG'
 bookcase_cover_src_dark: '/photos/featured.PNG'
+draft: true
 weight: 65
 ---
 

@@ -16,15 +16,6 @@
     </item>
     
     <item>
-      <title>Wei Xu, PhD</title>
-      <link>http://localhost:1313/members/weixu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/members/weixu/</guid>
-      <description>Visiting Scientist</description>
-    </item>
-    
-    <item>
       <title>Hongming Dong, PhD</title>
       <link>http://localhost:1313/members/hongming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -40,15 +31,6 @@
       
       <guid>http://localhost:1313/members/lingchen/</guid>
       <description>Administrative</description>
-    </item>
-    
-    <item>
-      <title>Beibei Tian</title>
-      <link>http://localhost:1313/members/beibei/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/members/beibei/</guid>
-      <description>Research Assistant</description>
     </item>
     
     <item>
@@ -70,21 +52,12 @@
     </item>
     
     <item>
-      <title>Xi Luo</title>
-      <link>http://localhost:1313/members/rossi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/members/rossi/</guid>
-      <description>Master student</description>
-    </item>
-    
-    <item>
       <title>Yukun Hu</title>
       <link>http://localhost:1313/members/yukun/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/members/yukun/</guid>
-      <description>Master student</description>
+      <description>PhD candidate</description>
     </item>
     
     <item>
@@ -97,12 +70,21 @@
     </item>
     
     <item>
-      <title>Maojiang Lu</title>
-      <link>http://localhost:1313/members/maojiang/</link>
+      <title>Xi Luo</title>
+      <link>http://localhost:1313/members/rossi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/members/maojiang/</guid>
-      <description>Master student</description>
+      <guid>http://localhost:1313/members/rossi/</guid>
+      <description>Research Assistant</description>
+    </item>
+    
+    <item>
+      <title>Wei Xu, PhD</title>
+      <link>http://localhost:1313/members/weixu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/members/weixu/</guid>
+      <description>Visiting Scientist</description>
     </item>
     
   </channel>

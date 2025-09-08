@@ -1,9 +1,10 @@
 ---
 title: "Beibei Tian"
 summary: "Research Assistant"
-bookcase_cover_src: '/photos/featured.PNG'
-bookcase_cover_src_dark: '/photos/featured.PNG'
+bookcase_cover_src: '/photos/featured.jpg'
+bookcase_cover_src_dark: '/photos/featured.jpg'
 weight: 5
+draft: true
 ---
 
 

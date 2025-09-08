@@ -1,9 +1,9 @@
 ---
 title: "Yukun Hu"
-summary: "Master student"
+summary: "PhD candidate"
 bookcase_cover_src: '/photos/yukun_featured.jpg'
 bookcase_cover_src_dark: '/photos/yukun_featured.jpg'
-weight: 50
+weight: 30
 ---
 
 
