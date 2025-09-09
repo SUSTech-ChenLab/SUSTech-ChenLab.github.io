@@ -3,7 +3,7 @@ title: "Xi Luo"
 summary: "Research Assistant"
 bookcase_cover_src: '/photos/xiluo_featured.jpg'
 bookcase_cover_src_dark: '/photos/xiluo_featured.jpg'
-weight: 62
+weight: 70
 ---
 
 
