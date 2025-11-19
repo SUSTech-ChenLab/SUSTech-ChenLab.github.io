@@ -3,7 +3,7 @@ title: "Xi Luo"
 summary: "Research Assistant"
 bookcase_cover_src: '/photos/xiluo_featured.jpg'
 bookcase_cover_src_dark: '/photos/xiluo_featured.jpg'
-weight: 70
+weight: 5
 ---
 
 
@@ -17,12 +17,15 @@ weight: 70
 
 __Biography__
 
-Xi did his BSc in Bioinformatics at SUSTech. He is interested in using computation approaches to elucidate mechanisms of early embryo development using single-cell approaches. He joined the Xi Chen lab in 2020 as an undergraduate student, and now a graduate student since 2022.
+Xi obtained his B.Sc. in Bioinformatics (2022) and M.Sc. in Biology (2025) from the Southern University of Science and Technology (SUSTech). His academic training includes exchange semesters at the University of California, Berkeley and Peking University. Xi has been a member of the Chen Lab since 2020, progressing from an undergraduate researcher to his current role. Now working as a Research Assistant, he focuses on identifying molecular differences associated with maternal aging in human embryo development. His expertise lies in applying statistical models to single-cell multi-omics data and developing interactive analysis tools (R Shiny).
 
-__Education__
+__Education & Experience__
 
-- 2018 - 2022 BSc. (Bioinformatics), Department of Biology, Southern University of Science and Technology
-- 2022 - present, Master student, School of Life Sciences, Southern University of Science and Technology
+- 2025 – Present: Research Assistant, Department of Systems Biology, SUSTech
+- 2024 (Spring): Exchange Student, Peking University Shenzhen Graduate School
+- 2022 – 2025: M.Sc. in Biology, SUSTech
+- 2020 (Spring): Exchange Student, University of California, Berkeley (BISP)
+- 2018 – 2022: B.Sc. in Bioinformatics, SUSTech
 
 __Other Links__
 
