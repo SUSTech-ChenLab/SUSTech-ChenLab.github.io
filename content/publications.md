@@ -14,7 +14,7 @@ This is one aspect of our contributions to science. If you have difficulties get
 
 # 2024
 
-- Qiushi Xu$^§$, Yunlong Zhang$^§$, Wei Xu, Dong Liu, Wenfei Jin, Xi Chen* & Ni Hong* (2024) **The chromatin accessibility dynamics during cell fate specifications in zebrafish early embryogenesis.** [*Nucleic Acids Res.* 52:3106-3120]((https://doi.org/10.1093/nar/gkae095)). doi: 10.1093/nar/gkae095. [**Click here**](/posts/2024-04-23-zfscatac/) to see some behind-the-scene stories that are not in the paper.
+- Qiushi Xu$^§$, Yunlong Zhang$^§$, Wei Xu, Dong Liu, Wenfei Jin, Xi Chen* & Ni Hong* (2024) **The chromatin accessibility dynamics during cell fate specifications in zebrafish early embryogenesis.** [*Nucleic Acids Res.* 52:3106-3120](https://doi.org/10.1093/nar/gkae095). doi: 10.1093/nar/gkae095. [**Click here**](/posts/2024-04-23-zfscatac/) to see some behind-the-scene stories that are not in the paper.
 
 # 2023
 
