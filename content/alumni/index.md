@@ -15,3 +15,4 @@ Previous members of the lab
 | 2020 - 2024 |   Qiushi Xu   |    PhD student      | PostDoc @ Kuming Institute of Zoology (CAS) |
 | 2022 - 2025 |  Maojiang Lu  |   Master student    |                                             |
 | 2020 - 2025 |  Beibei Tian  | Master student & RA |             PhD candidate at CCNU           |
+| 2021 - 2025 | Yunlong Zhang |     PhD student     |     Data Scientist at Abiosciences          |

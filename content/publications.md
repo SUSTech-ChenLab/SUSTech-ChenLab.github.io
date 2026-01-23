@@ -8,6 +8,10 @@ title: "Publications"
 
 This is one aspect of our contributions to science. If you have difficulties getting the full text, [drop me an email](mailto:chenx9@sustech.edu.cn).
 
+# 2026
+
+- Xu W*, Hu Y, Zhang Y, Schnepp PM, Lo LK, Zhang Q, Cheng SM & Xi Chen* (2026) **Single-nucleus chromatin accessibility and gene expression co-profiling by ISSAAC-seq.** [*Nat Protoc*](https://rdcu.be/eYFyK). doi: 10.1038/s41596-025-01304-y
+
 # 2025
 
 - Zheng J$^§$, Chen Y$^§$, Hu Y, Zhu Y, Lin J, Xu M, Zhang Y, Song W* & Chen X* (2025) **Lineage trajectories and fate determinants of postnatal neural stem cells and ependymal cells in the developing ventricular zone.** [*PLoS Biol* 23:e3003318](https://doi.org/10.1371/journal.pbio.3003318). doi: 10.1371/journal.pbio.3003318
