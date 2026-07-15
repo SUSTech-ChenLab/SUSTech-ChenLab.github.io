@@ -4,6 +4,7 @@ summary: "Master student"
 bookcase_cover_src: '/photos/weitai_featured.jpg'
 bookcase_cover_src_dark: '/photos/weitai_featured.jpg'
 weight: 60
+draft: true
 ---
 
 

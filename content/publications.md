@@ -10,7 +10,7 @@ This is one aspect of our contributions to science. If you have difficulties get
 
 # 2026
 
-- Xu W*, Hu Y, Zhang Y, Schnepp PM, Lo LK, Zhang Q, Cheng SM & Xi Chen* (2026) **Single-nucleus chromatin accessibility and gene expression co-profiling by ISSAAC-seq.** [*Nat Protoc*](https://rdcu.be/eYFyK). doi: 10.1038/s41596-025-01304-y
+- Xu W*, Hu Y, Zhang Y, Schnepp PM, Lo LK, Zhang Q, Cheng SM & Xi Chen* (2026) **Single-nucleus chromatin accessibility and gene expression co-profiling by ISSAAC-seq.** [*Nat Protoc* 21:3227-3259](https://rdcu.be/eYFyK). doi: 10.1038/s41596-025-01304-y
 
 # 2025
 

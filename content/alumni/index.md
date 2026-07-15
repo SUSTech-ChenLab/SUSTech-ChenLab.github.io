@@ -16,3 +16,5 @@ Previous members of the lab
 | 2022 - 2025 |  Maojiang Lu  |   Master student    |                                             |
 | 2020 - 2025 |  Beibei Tian  | Master student & RA |             PhD candidate at CCNU           |
 | 2021 - 2025 | Yunlong Zhang |     PhD student     |     Data Scientist at Abiosciences          |
+| 2019 - 2026 |    Xi Luo     | Master student & RA |             PhD candidate at HKU            |
+| 2023 - 2026 |   Weitai Wu   |   Master student    |           Sales Manager @ Tencent           |
